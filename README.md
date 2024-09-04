@@ -1,7 +1,5 @@
-
-This program Purpose: Provides instructions for using the ShiftSchedulerApp.
-
-Getting Started: Includes installation steps and how to launch the application.
-Using the Application: Explains how to add shifts, calculate total hours and bonuses, and interpret results.
-Troubleshooting: Offers solutions for common errors and issues.
-Support: Contact information for further assistance.
+Purpose:
+The ShiftSchedulerApp program helps  businesses manage employee shifts and calculate bonuses based on hours worked. It allows users to input shift details, maximum allowable hours, and bonus rates, and then calculates total hours worked, identifies overworked employees, and computes bonuses.
+Design Specifics:
+•	GUI: Built using Tkinter for simplicity and ease of use.
+•	Data Storage: Shift details are stored in a list within the program.
